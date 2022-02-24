@@ -1,2 +1,2 @@
-# OOP_PizzaStore
+# OOP, SOLID, Factory Method Pattern
  
