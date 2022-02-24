@@ -1,0 +1,15 @@
+D:\OOP_PizzaStore\OOP_PizzaStore\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.exe
+D:\OOP_PizzaStore\OOP_PizzaStore\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.deps.json
+D:\OOP_PizzaStore\OOP_PizzaStore\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.runtimeconfig.json
+D:\OOP_PizzaStore\OOP_PizzaStore\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.dll
+D:\OOP_PizzaStore\OOP_PizzaStore\PizzaStore\PizzaStore\bin\Debug\net6.0\ref\PizzaStore.dll
+D:\OOP_PizzaStore\OOP_PizzaStore\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.pdb
+D:\OOP_PizzaStore\OOP_PizzaStore\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.csproj.AssemblyReference.cache
+D:\OOP_PizzaStore\OOP_PizzaStore\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP_PizzaStore\OOP_PizzaStore\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.AssemblyInfoInputs.cache
+D:\OOP_PizzaStore\OOP_PizzaStore\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.AssemblyInfo.cs
+D:\OOP_PizzaStore\OOP_PizzaStore\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.csproj.CoreCompileInputs.cache
+D:\OOP_PizzaStore\OOP_PizzaStore\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.dll
+D:\OOP_PizzaStore\OOP_PizzaStore\PizzaStore\PizzaStore\obj\Debug\net6.0\ref\PizzaStore.dll
+D:\OOP_PizzaStore\OOP_PizzaStore\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.pdb
+D:\OOP_PizzaStore\OOP_PizzaStore\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.genruntimeconfig.cache
